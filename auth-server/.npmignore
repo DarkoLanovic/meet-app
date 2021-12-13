@@ -4,6 +4,4 @@ jspm_packages
 
 # Serverless directories
 .serverless
-
-# environment variables
-config.json 
+ 
