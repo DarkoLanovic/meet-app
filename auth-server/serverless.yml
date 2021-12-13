@@ -1,3 +1,5 @@
+# file where I'll configure my functions
+
 service: auth-server
 
 provider:
